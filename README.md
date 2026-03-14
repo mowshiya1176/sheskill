@@ -1,73 +1,159 @@
-# Welcome to your Lovable project
+🌸 SheSkill – Turning Everyday Skills into Income
+📌 Overview
 
-## Project info
+SheSkill is a platform designed to empower housewives and women who cannot start a full business but have valuable everyday skills. The platform allows women to showcase their talents, sell homemade products, offer services, and earn income from home.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project was developed as part of SheHacks, organized by our college, with the goal of creating a digital solution that supports women empowerment and financial independence.
 
-## How can I edit this code?
+🎯 Problem Statement
 
-There are several ways of editing your application.
+Many women have talents such as cooking, tailoring, crafting, teaching, or beauty services, but they often face challenges like:
 
-**Use Lovable**
+Lack of financial support
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Limited business opportunities
 
-Changes made via Lovable will be committed automatically to this repo.
+No platform to showcase their skills
 
-**Use your preferred IDE**
+Because of these challenges, many valuable skills remain unused.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+💡 Solution
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+SheSkill provides a simple and user-friendly platform where women can:
 
-Follow these steps:
+Share their skills
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Sell homemade products
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Offer small services
 
-# Step 3: Install the necessary dependencies.
-npm i
+Connect with customers
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Learn and teach skills
 
-**Edit a file directly in GitHub**
+The platform helps women turn their everyday talents into income opportunities.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+✨ Features
+🧵 Skill Sharing
 
-**Use GitHub Codespaces**
+Women can post and showcase their skills such as:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Cooking
 
-## What technologies are used for this project?
+Tailoring
 
-This project is built with:
+Mehendi design
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Craft making
 
-## How can I deploy this project?
+Teaching
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+🛍️ Product Marketplace
 
-## Can I connect a custom domain to my Lovable project?
+Users can sell homemade products like:
 
-Yes, you can!
+Homemade food
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Handmade crafts
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Clothes
+
+Jewelry
+
+Art items
+
+📅 Service Booking
+
+Customers can book services such as:
+
+Tailoring
+
+Tuition classes
+
+Baking orders
+
+Beauty services
+
+📚 Learning Section
+
+Women can share knowledge through:
+
+Tutorials
+
+Videos
+
+Workshops
+
+🤝 Community Support
+
+A community space where women can:
+
+Ask questions
+
+Share experiences
+
+Support and motivate each other
+
+👩‍💻 User Profiles
+
+Each user has a profile to showcase:
+
+Skills
+
+Products
+
+Services
+
+Ratings and reviews
+
+🚀 How It Works
+
+User creates an account on SheSkill
+
+Adds their skills, products, or services
+
+Customers browse the platform
+
+Customers order products or book services
+
+Women earn income from their skills
+
+🎯 Target Users
+
+Housewives
+
+Women entrepreneurs
+
+Skilled women working from home
+
+Local customers looking for services or handmade products
+
+🌍 Impact
+
+SheSkill aims to:
+
+Empower women financially
+
+Encourage entrepreneurship
+
+Promote local talent
+
+Build a supportive community
+
+🔮 Future Enhancements
+
+Mobile application development
+
+Secure online payment integration
+
+Location-based service discovery
+
+Skill training programs
+
+🏫 Project Context
+
+This project was created for SheHacks, a hackathon organized by our college to encourage innovative solutions that empower women and solve real-world problems.
+
+📌 Tagline
+
+“Small Skills, Big Opportunities for Women.”
